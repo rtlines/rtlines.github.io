@@ -1,7 +1,7 @@
 
 ## Dr. R. Todd Lines
-![Photo](RTLsmall.jpg)
-Format: ![Alt Text](url)
+<img src="RTLsmall.jpg" alt="photo" width="200"/>
+
 
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
 ## Welcome to GitHub Pages
