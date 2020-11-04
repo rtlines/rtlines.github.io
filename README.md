@@ -15,7 +15,9 @@ I have draft version of a four semester introductory physics series.  There are 
 <br /><br />
 And here are two lab manuals, one for a first laboratory experience empnasizizing exerpimental design teaching measurement, error analysis, and Euler's method. The second teaching instsrument design using Arduinos.<br /><br />
 [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf)<br />
-[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/lecture_notesph279.pdf)<br />
+[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf)<br />
+ph250_lab_manual_v13_arduino_0.622.pdf
+
 
 <br />
 # BYU-I thesis format
