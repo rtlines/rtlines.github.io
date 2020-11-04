@@ -3,7 +3,11 @@
 <img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books
-I have draft version of a four-semester introductory physics textbook series.  There are some quirks in what I have done. There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.
+Over the last few years, I have kind of disappeared from the research community.  I decided I wanted to try to write an introductory textbook series, something that I could modify as I experimented with my classes. And something that I could give to my students without the huge cost.  Many of my students are from rural communities or from world areas where the cost of coming to college is prohibitive. The cost of textbooks only makes that more difficult. For these students, a free text that is not as perfect, but is free might make all the difference. At this point I have rough draft version of a four-semester introductory physics textbook series. They aren't great, maybe someday they will be. I hope to make them at least useful.  And there are some quirks in what I have done. 
+* There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.  
+* I also take a new approach, stressing structured problem solving. Students are encouraged to subdivide physics into a set of problem types with their accompanying equations sets and solution techniques. The idea is a little like object-oriented programming where the data types and methods are grouped together. It this way, once the student recognizes a familiar problem type in a problem, a set of tools to solve that part of the problem immediately comes to mind.  I believe many physicists work this way. 
+We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
+
 
 [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
 <br />
