@@ -26,4 +26,4 @@ And here are two lab manuals, one for a first laboratory experience empnasizizin
 <br /><br />
 
 
-[editor on GitHub](https://github.com/rtlines/rtlines.github.io/edit/master/README.md) 
+
