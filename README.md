@@ -7,7 +7,9 @@ I have draft version of a four semester introductory physics series.  There are 
 
 [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
 [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
-[Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
+[Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf)
+[Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/Lecture_Notes_PH-220.pdf)
+
 
 
 
