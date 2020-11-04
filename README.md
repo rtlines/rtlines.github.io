@@ -10,17 +10,14 @@ Over the last few years, I have kind of disappeared from the research community.
 We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
 
 
-[Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
+* [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf) <br />
+* [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf) <br />
+* [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
+* [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf) <br />
 <br />
-[Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
-<br />
-[Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf)
-<br />
-[Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf)
-<br /><br />
 And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
-[Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf)<br />
-[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf)<br />
+* [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf)<br />
+* [Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf)<br />
 <br />
 Perhaps these could be viewed as beta versions. You are welcome to look through the drafts, offer suggestions, or even try them for a class.  For any commercial use, please contact me.  All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use. Use permissions might change for the final versions (but probably won't). 
 <br />
