@@ -6,6 +6,9 @@
 I have draft version of a four semester introductory physics series.  There are some quirks in what I have done. There are not problem sets in the text books.  These could be used with an on-line problem set like Sapling Learning or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.
 
 [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
+[Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
+[Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
+
 
 
 # BYU-I thesis format
