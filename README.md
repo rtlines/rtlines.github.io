@@ -12,10 +12,10 @@ I have draft version of a four semester introductory physics series.  There are 
 [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf)
 <br />
 [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf)
-<br />
-And here are two lab manuals, one for a first laboratory experience empnasizizing exerpimental design teaching measurement, error analysis, and Euler's method. The second teaching instsrument design using Arduinos.
-[Introductory Physics Lab I Experimental Design](https://rtlines.github.io/lecture_notesph279.pdf)
-[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/lecture_notesph279.pdf)
+<br /><br />
+And here are two lab manuals, one for a first laboratory experience empnasizizing exerpimental design teaching measurement, error analysis, and Euler's method. The second teaching instsrument design using Arduinos.<br />
+[Introductory Physics Lab I Experimental Design](https://rtlines.github.io/lecture_notesph279.pdf)<br />
+[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/lecture_notesph279.pdf)<br />
 
 
 # BYU-I thesis format
