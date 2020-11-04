@@ -21,11 +21,11 @@ We will see how this works. Comments, suggestions, or complaints can be sent to 
 And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
 [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf)<br />
 [Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf)<br />
-
-
-
+<br />
+All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use.
 <br />
 ## BYU-I thesis format
+For my senior thesis class:
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
 
 <br /><br />
