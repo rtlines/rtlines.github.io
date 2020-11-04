@@ -1,6 +1,6 @@
 
 # Dr. R. Todd Lines
-<img src="RTLsmall.jpg" alt="photo" width="100"/>
+<img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books
 I have draft version of a four semester introductory physics series.  There are some quirks in what I have done. There are not problem sets in the text books.  These could be used with an on-line problem set like Sapling Learning or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.
