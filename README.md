@@ -1,6 +1,6 @@
 
 # Dr. R. Todd Lines
-<img src="RTLsmall.jpg" alt="photo" width="20"/>
+<img src="RTLsmall.jpg" alt="photo" width="100"/>
 
 ## Draft Text Books
 PH121_Text_Book_0.31071.pdf
