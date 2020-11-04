@@ -1,5 +1,5 @@
 
-# Dr. R. Todd Lines 
+# Dr. R. Todd Lines  
 <img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books
