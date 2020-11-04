@@ -20,10 +20,10 @@ And here are two lab manuals, one for a first laboratory experience empnasizizin
 
 
 <br />
-# BYU-I thesis format
+## BYU-I thesis format
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
 
+<br /><br />
 
-## Welcome to GitHub Pages
 
 [editor on GitHub](https://github.com/rtlines/rtlines.github.io/edit/master/README.md) 
