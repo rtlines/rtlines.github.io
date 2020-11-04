@@ -1,9 +1,10 @@
 
-## Dr. R. Todd Lines
+# Dr. R. Todd Lines
 <img src="RTLsmall.jpg" alt="photo" width="20"/>
 
-# Draft Text Books
-
+## Draft Text Books
+PH121_Text_Book_0.31071.pdf
+[Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
 
 # BYU-I thesis format
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
