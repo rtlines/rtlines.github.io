@@ -1,6 +1,6 @@
 
 ## Dr. R. Todd Lines
-![Photo](RTL.jpg)
+![Photo](RTL.jpg =12)
 Format: ![Alt Text](url)
 
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
