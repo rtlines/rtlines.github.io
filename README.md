@@ -1,59 +1,35 @@
 
-# Dr. R. Todd Lines
-<img src="RTLsmall.jpg" alt="photo" width="100"/>
+# Dr. R. Todd Lines  
+<img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books
-I have draft version of a four semester introductory physics series.  There are some quirks in what I have done. There are not problem sets in the text books.  These could be used with an on-line problem set like Sapling Learning or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.
+Over the last few years, I have kind of disappeared from the research community.  I decided I wanted to try to write an introductory textbook series, something that I could modify as I experimented with my classes. And something that I could give to my students without the huge cost.  Many of my students are from rural communities or from world areas where the cost of coming to college is prohibitive. The cost of textbooks only makes that more difficult. For these students, a free text that is not as perfect, but is free might be a fair trade. At this point I have rough draft version of a four-semester introductory physics textbook series. They aren't great, maybe someday they will be. I hope to make them at least useful.  And there are some quirks in what I have done. 
+* There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.  
+* I also take a new approach, stressing structured problem solving. Students are encouraged to subdivide physics into a set of problem types with their accompanying equations sets and solution techniques. The idea is a little like object-oriented programming where the data types and methods are grouped together. It this way, once the student recognizes a familiar problem type in a problem, a set of tools to solve that part of the problem immediately comes to mind.  I believe many physicists work this way. <br />
 
-[Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf)
-<br />
-[Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf)
-<br />
-[Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf)
-<br />
-[Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf)
-<br />
-And here are two lab manuals, one for a first laboratory experience empnasizizing exerpimental design teaching measurement, error analysis, and Euler's method. The second teaching instsrument design using Arduinos.
-[Introductory Physics Lab I Experimental Design](https://rtlines.github.io/lecture_notesph279.pdf)
-[Introductory Physics Lab II Instrument Design](https://rtlines.github.io/lecture_notesph279.pdf)
+We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
 
 
-# BYU-I thesis format
+* [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf) <br />
+* [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf) <br />
+* [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
+* [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf) <br />
+<br />
+
+And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
+
+* [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf) <br />
+* [Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf) <br />
+<br />
+
+Perhaps these could be viewed as beta versions. You are welcome to look through the drafts, offer suggestions, or even try them for a class.  For any commercial use, please contact me.  All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use. Use permissions might change for the final versions (but probably won't). 
+<br />
+
+## BYU-I thesis format
+For my senior thesis class:
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rtlines/rtlines.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<br /><br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-Try to include a pdf file link [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rtlines/rtlines.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
