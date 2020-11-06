@@ -30,6 +30,7 @@ Perhaps these could be viewed as beta versions. You are welcome to look through 
 [How to Avoid Falling in Love with a Jerk by John Van Epp](https://www.amazon.com/How-Avoid-Falling-Love-Jerk/dp/0071548424/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=) <br />
 [The Feynman Lectures on Physics by Feynman, Leighton, and Sands](https://www.feynmanlectures.caltech.edu/) <br />
 [How to teach quantum physis to your dog by Chad Orzel](https://www.simonandschuster.com/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/9781416572299) <br />
+[The Emperor's New Mind by Rodger Penrose](https://global.oup.com/academic/product/the-emperors-new-mind-9780198784920?lang=en&cc=us) <br />
 
 
 ## BYU-I thesis format
