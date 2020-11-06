@@ -25,6 +25,13 @@ And here are two lab manuals, one for a first laboratory experience emphasizing 
 Perhaps these could be viewed as beta versions. You are welcome to look through the drafts, offer suggestions, or even try them for a class.  For any commercial use, please contact me.  All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use. Use permissions might change for the final versions (but probably won't). 
 <br />
 
+## Books I recommend
+[Scientific Writing 2.0 by Jean-Luc Lebrun](https://www.worldscientific.com/worldscibooks/10.1142/8156) <br />
+[How to Avoid Falling in Love with a Jerk by John Van Epp](https://www.amazon.com/How-Avoid-Falling-Love-Jerk/dp/0071548424/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=) <br />
+[The Feynman Lectures on Physics by Feynman, Leighton, and Sands](https://www.feynmanlectures.caltech.edu/) <br />
+[How to teach quantum physis to your dog by Chad Orzel](https://www.simonandschuster.com/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/9781416572299) <br />
+
+
 ## BYU-I thesis format
 For my senior thesis class:
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
