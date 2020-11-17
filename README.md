@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
   <meta name="google-site-verification" content="U2LmnMZVz6H1rWZCIxm8gadTRDceTvpgb8C_vmX7OGU" />
 <\head>
@@ -44,5 +42,5 @@ For my senior thesis class:
 
 <br /><br />
 <\body>
-</html>
+
 
