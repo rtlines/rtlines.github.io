@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="google-site-verification" content="U2LmnMZVz6H1rWZCIxm8gadTRDceTvpgb8C_vmX7OGU" />
+<\head>
+<body>
 # Dr. R. Todd Lines  
 <img src="RTLsmall.jpg" alt="photo" width="150"/>
 
@@ -38,6 +43,6 @@ For my senior thesis class:
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
 
 <br /><br />
-
-
+<\body>
+</html>
 
