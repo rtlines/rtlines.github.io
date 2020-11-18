@@ -19,7 +19,7 @@ And here are two lab manuals, one for a first laboratory experience emphasizing 
 
 * [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf) <br />
 * [Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf) <br />
-<br />
+<br /> 
 
 Perhaps these could be viewed as beta versions. You are welcome to look through the drafts, offer suggestions, or even try them for a class.  For any commercial use, please contact me.  All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use. Use permissions might change for the final versions (but probably won't). 
 <br />
