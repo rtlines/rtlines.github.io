@@ -1,4 +1,4 @@
-# Dr. R. Todd Lines  MD
+# Dr. R. Todd Lines  MD2
 <img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books
