@@ -34,7 +34,7 @@ Perhaps these could be viewed as beta versions. You are welcome to look through 
 
 ## BYU-I thesis format
 For my senior thesis class:
-[OrbitThesisFile](https://rtlines.github.io/Orbit.zip)
+[OrbitThesisTemplate](https://rtlines.github.io/Orbit.zip)
 
 <br /><br /> 
 
