@@ -35,7 +35,7 @@ Perhaps these could be viewed as beta versions. You are welcome to look through 
 ## BYU-I thesis format
 For my senior thesis class:
 Here is the BYUI thesis template (the BYU template with modificatoins for BYUI)
-[OrbitThesisTemplate](https://rtlines.github.io/Orbit.zip)
+[OrbitThesisTemplate](https://rtlines.github.io/Orbit.zip).
 And this is what you should get when you compile the LaTeX
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf)
 
