@@ -39,7 +39,43 @@ Here is the BYUI thesis template (the BYU template with modificatoins for BYUI)
 And this is what you should get when you compile the LaTeX
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf).
 
-<br /><br /> 
+<br /><br />
 
+
+## Publications
+
+*Throughout my industrial career, I have written many proposals, technical reports, program reports, etc., that are classified or proprietary. I have listed all those which fall within the open literature or for which the titles are open.*
+
+Lines, Raymond T., Darryl G. Murdock, David M. Brown, Trevis J. Gigliotti, C. Russell Philbrick, Hazardous Liquids Airborne Lidar Observation Study (HALOS) Real World Flight Test Report.  Department of Transportation, Office of Pipeline Safety, Contract number DTRS56-04-T-0012, November, 2005.
+
+Thomas A. Sanderson, Paul Sprague, Steven L. Smith, Rulon E. Simmons, and Raymond T. Lines, “A mechanism for the management and optimization of imaging systems with non-uniform imaging quality,” *Proceedings of SPIE,* Vol. 5784, Infrared Imaging Systems: Design, Analysis, Modeling, and Testing XVI, Gerald C. Holst, Editor, May 2005, pp. 91-102
+
+Jeffrey S. Owen, Dr. Steven V. Stearns, Dr. Darryl G. Murdock
+Raymond T. Lines, Joseph L. Lippert, Dr. Michael L. Jacobs, Simulated Leak Test Report:  Hazardous Liquids Airborne Lidar Observation Study (HALOS),   Department of Transportation Pipeline and Hazardous Materials Safety Administration Office of Pipeline Safety Contract number:  DTRS56-04-T-0012, 14 July 2005
+
+R. Todd Lines, Hoosmand Kalayeh, Joseph Lippert, Viking Concentration Length Basic Algorithm Error Analysis, ITT Industries Space Systems Division Technical Report, 1447 St. Paul Street, PO Box 60488, Rochester, NY 14606-0488, 27 October 2004
+
+Steven V. Stearns, Raymond T. Lines, Christian J. Grund, C. Russell Philbrick, Technology Status Report on Active Remote Detection of Natural Gas Pipeline Leaks, U.S. Department of Energy National Energy Technology Laboratory Morgantown, WV, Contract Number: DE-FC26-03NT41877, February, 2004 (http://www.netl.doe.gov/scngo/NaturalGas/TD&S/Status_Assessments/DOENETL%20Technology%20Status%20ReportFINAL.pdf)
+
+R. Todd Lines, CMIS Systems Engineering Report No. ALG-016: System Performance Analysis - Cloud Ice Water Path, Ball Aerospace, 1600 Commerce St., Boulder, Colorado, 1999
+
+R. Todd Lines, CMIS Systems Engineering Report No. ALG-013: System Performance Analysis - Ice Surface Temperature, Ball Aerospace, 1600 Commerce St., Boulder, Colorado, 1999
+
+R. Todd Lines, CMIS Systems Engineering Report No. ALG-012:  System Performance Analysis - Sea Ice Age, Ball Aerospace, 1600 Commerce St., Boulder, Colorado, 1999
+
+R. Todd Lines, CMIS Systems Engineering Report No. ALG-011: System Performance Analysis - Sea Surface Wind Direction, Ball Aerospace, 1600 Commerce St., Boulder, Colorado, 1999
+
+R. Todd Lines, CMIS Systems Engineering Report No. ALG-010: System Performance Analysis - Sea Surface Wind Speed, Ball Aerospace, 1600 Commerce St., Boulder, Colorado, 1999
+
+R. C. Savage and R. T. Lines and J. Cole and G. G. Koenig, “A Passive Microwave Icing Avoidance System MIAS), *Proceedings of the Eighth Conference on Aviation, Range, and Aerospace Meteorology,* 10-15 January, Dallas, Texas, American Meteorological Society, pages 457-461,1999
+
+R. T. Lines and R. C. Savage and J. Cole, A Passive Microwave Icing Avoidance System (MIAS) Final Report, Raytheon Systems Company, 16800 E. CentreTech Parkway, Aurora CO, 80011, 10 March, 1999
+
+R. Todd Lines, Preliminary Wind Vector Algorithm, Raytheon Systems Company Technical Report, 16800 E. CentreTech Parkway, Aurora CO, 80011, 10 November, 1997
+
+R. Todd Lines and Young P. Yee, “Temperature Profile of the Nocturnal Stable Boundary Layer over Homogeneous Desert Using LA-TEAMS,” 
+*Proceedings of the 1994 Battlefield Atmospherics Conference,* US Army Research Laboratory Battlefield Environment Directorate, White Sands, NM, M. E. Creegan and J. R. Elrick, ed., 1994
+
+G. Goedecke and R. Loveland and R. Lines and R. Gonzalez and J. Thompson and Y. Yee, “Lidar Inversion Technique Using Total Attenuation and the Lidar System Constant,” *Proceedings, SPIE Atmospheric Propagation and Remote Sensing,* 21-23 April 1992 Orlando FL, Anton Kohnle and Walter B. Miller, ed., pages 171-177, 1992
 
 
