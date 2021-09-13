@@ -45,11 +45,6 @@ And this is what you should get when you compile the LaTeX
 * High Performance Computing: Building computer clusters using PC and Raspberry Pi's
 
 
-## Current Research
-
-<br /><br />Microwave Radiative Transfer
-
-
 ## Publications
 
 *Throughout my industrial career, I have written many proposals, technical reports, program reports, etc., that are classified or proprietary. I have listed all those which fall within the open literature or for which the titles are open.*
