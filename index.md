@@ -47,7 +47,6 @@ And this is what you should get when you compile the LaTeX
 
 ## Publications
 
-*Throughout my industrial career, I have written many proposals, technical reports, program reports, etc., that are classified or proprietary. I have listed all those which fall within the open literature or for which the titles are open.*
 
 Lines, Raymond T., Darryl G. Murdock, David M. Brown, Trevis J. Gigliotti, C. Russell Philbrick, Hazardous Liquids Airborne Lidar Observation Study (HALOS) Real World Flight Test Report.  Department of Transportation, Office of Pipeline Safety, Contract number DTRS56-04-T-0012, November, 2005.
 
@@ -83,8 +82,6 @@ G. Goedecke and R. Loveland and R. Lines and R. Gonzalez and J. Thompson and Y. 
 
 ## Presentations
 
-*My industrial career required a great deal of speaking. Unfortunately, much of this was in a classified environment. Because of this, not all of my speaking history can be included here.*
- 
 R. Todd Lines, Steven Turcotte, Brian Pyper, Brian Tonks, "Physics and Leadership: Managing Chaos," *Presentation at Brigham Young University - Idaho,* February 22, 2015
 
 R. Todd Lines, Airborne Natural Gas Emission Lidar (ANGEL) Service: Detecting Natural Gas with an Airborne DIAL System, *Colloquium Address to the University of Rochester Laboratory for Laser Energetics,* 16 September, 2005
