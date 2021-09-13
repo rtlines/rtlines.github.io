@@ -82,15 +82,17 @@ G. Goedecke and R. Loveland and R. Lines and R. Gonzalez and J. Thompson and Y. 
 
 *My industrial career required a great deal of speaking. Unfortunately, much of this was in a classified environment. Because of this, not all of my speaking history can be included here.*
  
-R. Todd Lines, Airborne Natural Gas Emission Lidar (ANGEL) Service: Detecting Natural Gas with an Airborne DIAL System, Colloquium Address to the University of Rochester Laboratory for Laser Energetics, 16 September, 2005
+R. Todd Lines, Steven Turcotte, Brian Pyper, Brian Tonks, "Physics and Leadership: Managing Chaos," *Presentation at Brigham Young University - Idaho,* February 22, 2015
 
-R. Todd Lines, “Detection of Cloud Ice Water Path Using Passive Microwave Devices,” Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office, System Integration Team Meeting, December 18, 1997
+R. Todd Lines, Airborne Natural Gas Emission Lidar (ANGEL) Service: Detecting Natural Gas with an Airborne DIAL System, *Colloquium Address to the University of Rochester Laboratory for Laser Energetics,* 16 September, 2005
 
-R. Todd Lines, “The Detection of Ocean Wind Vectors Using the Conical Scanning Microwave Imager/Sounder,” Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office, System Integration Team Meeting, October 1, 1997
+R. Todd Lines, “Detection of Cloud Ice Water Path Using Passive Microwave Devices,” *Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office, System Integration Team Meeting,* December 18, 1997
 
-R. Todd Lines and Richard C. Savage, “Detectability of Icing Conditions Using Passive Microwave Devices,” 1997 In-flight Remote Sensing Icing Avoidance Workshop, April 1-2, NASA Lewis Research Center, Cleveland, OH, 1997
+R. Todd Lines, “The Detection of Ocean Wind Vectors Using the Conical Scanning Microwave Imager/Sounder,” *Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office, System Integration Team Meeting,* October 1, 1997
 
-R. Todd Lines, “Detectability of Cloud Properties Using the Conical Scanning Microwave Imager/Sounder:  Trade Study Results,” Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office, November 6, 1996
+R. Todd Lines and Richard C. Savage, “Detectability of Icing Conditions Using Passive Microwave Devices,” *1997 In-flight Remote Sensing Icing Avoidance Workshop,* April 1-2, NASA Lewis Research Center, Cleveland, OH, 1997
+
+R. Todd Lines, “Detectability of Cloud Properties Using the Conical Scanning Microwave Imager/Sounder:  Trade Study Results,” *Presentation to the National Polar-Orbiting Operational Satellite System Integrated Program Office,* November 6, 1996
 
 ## Patents
 
