@@ -43,7 +43,7 @@ And this is what you should get when you compile the LaTeX
 
 ## Current Research
 Conversion of the Variational Green's Function Method code for calculation of the electrical field for small particle scattering to python.
-Microwave Radiative Transfer
+<br /><br />Microwave Radiative Transfer
 
 
 ## Publications
