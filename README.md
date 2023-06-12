@@ -10,15 +10,16 @@ We will see how this works. Comments, suggestions, or complaints can be sent to 
 
 
 * [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf) <br />
+* [Introductory Physics I Mechanics](https://rtlines.github.io/PH121_Text_Book_0.31071.pdf) <br />
 * [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf) <br />
 * [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
 * [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf) <br />
+* [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://github.com/rtlines/IntroductoryPhysicsIV/blob/main/Textbook/lecture_notesph279.pdf)) <br />
 <br />
 
 And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
 
 * [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf) <br />
-* [Introductory Physics Lab II Instrument Design](https://rtlines.github.io/ph250_lab_manual_v13_arduino_0.622.pdf) <br />
 * [Introductory Physics Lab II Instrument Design](https://github.com/rtlines/IntermediateLabPH250/blob/main/PH250_Lab_Manual_1.0.pdf)<br />
 <br /> 
 
