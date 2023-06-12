@@ -2,8 +2,8 @@
 <img src="RTLsmall.jpg" alt="photo" width="150"/>
 
 ## Draft Text Books 
-Over the last few years, I have kind of disappeared from the research community.  I decided I wanted to try to write an introductory textbook series, something that I could modify as I experimented with my classes. And something that I could give to my students without the huge cost.  Many of my students are from rural communities or from world areas where the cost of coming to college is prohibitive. The cost of textbooks only makes that more difficult. For these students, a free text that is not as perfect, but is free might be a fair trade. At this point I have rough draft version of a four-semester introductory physics textbook series. They aren't great, maybe someday they will be. I hope to make them at least useful.  And there are some quirks in what I have done. 
-* There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Mastering Physics.  I have problem sets done for some classes, but I don't want to publish them online at this point.  
+Over the last few years, I have kind of disappeared from the research community.  I decided I wanted to try to write an introductory textbook series, something that I could modify as I experimented with my classes. And something that I could give to my students without the huge cost.  Many of my students are from world areas where the cost of coming to college is prohibitive. The cost of textbooks only makes that more difficult. For these students, a text that is not as perfect, but is free might be a fair trade. At this point I have rough draft version of a four-semester introductory physics textbook series. They aren't great, maybe someday they will be. I hope to make them at least useful.  And there are some quirks in what I have done. 
+* There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Expert TA.  I have problem sets done for some classes, but I don't want to publish them online at this point.  
 * I also take a new approach, stressing structured problem solving. Students are encouraged to subdivide physics into a set of problem types with their accompanying equations sets and solution techniques. The idea is a little like object-oriented programming where the data types and methods are grouped together. It this way, once the student recognizes a familiar problem type in a problem, a set of tools to solve that part of the problem immediately comes to mind.  I believe many physicists work this way. <br />
 
 We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
@@ -15,7 +15,7 @@ We will see how this works. Comments, suggestions, or complaints can be sent to 
 * [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics)](https://github.com/rtlines/IntroductoryPhysicsIV/blob/main/Textbook/lecture_notesph279.pdf) <br />
 <br />
 
-And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
+And here are two lab manuals, one for a first laboratory experience emphasizing experimental design and teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
 
 * [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf) <br />
 * [Introductory Physics Lab II Instrument Design](https://github.com/rtlines/IntermediateLabPH250/blob/907b7b5cd7de8b715bfef7c65a00ccc34766aeae/PH250_Lab_Manual_1.0.pdf)<br />
@@ -101,7 +101,7 @@ R. Todd Lines, “Detectability of Cloud Properties Using the Conical Scanning M
 ## Patents
 
 US 6,489,915, Microwave icing avoidance system
-US 7,508,520,  System and method for multi-target fluid concentration detection and mapping
+US 7,508,520, System and method for multi-target fluid concentration detection and mapping
 
 ## BYU-I Unoffial Physics Page
 [BYU Physics Department Page](https://byui-physics.github.io/main/).
