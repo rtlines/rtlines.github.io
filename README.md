@@ -9,7 +9,7 @@ Over the last few years, I have kind of disappeared from the research community.
 We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
 
 
-* [Introductory Physics I Mechanics](https://github.com/rtlines/Introductory-Physics-I/blob/6fce20b732198f7210a76e46427da636c26f75a3/Textbook/PH121Textbook0.31083.pdf) <br />
+* [Introductory Physics I Mechanics](https://github.com/rtlines/Introductory-Physics-I/blob/6fce20b732198f7210a76e46427da636c26f75a3/Textbook/PH121Textbook0.31083.pdf) <br /> 
 * [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf) <br />
 * [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
 * [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics)](https://github.com/rtlines/IntroductoryPhysicsIV/blob/main/Textbook/lecture_notesph279.pdf) <br />
