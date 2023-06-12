@@ -6,7 +6,7 @@ Over the last few years, I have kind of disappeared from the research community.
 * There are no problem sets in the textbooks.  These could be used with an on-line problem set like Sapling Learning's system or Expert TA.  I have problem sets done for some classes, but I don't want to publish them online at this point.  
 * I also take a new approach, stressing structured problem solving. Students are encouraged to subdivide physics into a set of problem types with their accompanying equations sets and solution techniques. The idea is a little like object-oriented programming where the data types and methods are grouped together. It this way, once the student recognizes a familiar problem type in a problem, a set of tools to solve that part of the problem immediately comes to mind.  I believe many physicists work this way. <br />
 
-We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu.
+We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu. 
 
 
 * [Introductory Physics I Mechanics](https://github.com/rtlines/Introductory-Physics-I/blob/6fce20b732198f7210a76e46427da636c26f75a3/Textbook/PH121Textbook0.31083.pdf) <br /> 
