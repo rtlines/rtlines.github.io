@@ -18,7 +18,7 @@ We will see how this works. Comments, suggestions, or complaints can be sent to 
 And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
 
 * [Introductory Physics Lab I Experimental Design](https://rtlines.github.io/ph150_lab_manual.pdf) <br />
-* [Introductory Physics Lab II Instrument Design](https://github.com/rtlines/IntermediateLabPH250/blob/main/PH250_Lab_Manual_1.0.pdf)<br />
+* [Introductory Physics Lab II Instrument Design](https://github.com/rtlines/IntermediateLabPH250/blob/907b7b5cd7de8b715bfef7c65a00ccc34766aeae/PH250_Lab_Manual_1.0.pdf)<br />
 <br /> 
 
 Perhaps these could be viewed as beta versions. You are welcome to look through the drafts, offer suggestions, or even try them for a class.  For any commercial use, please contact me.  All are copyright R. Todd Lines with permission granted to BYU-Idaho for educational use. Use permissions might change for the final versions (but probably won't). 
