@@ -13,7 +13,9 @@ We will see how this works. Comments, suggestions, or complaints can be sent to 
 * [Introductory Physics II Waves, Thermodynamics, and Optics](https://rtlines.github.io/ph123_text_book.v0.52.pdf) <br />
 * [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
 * [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics](https://rtlines.github.io/lecture_notesph279.pdf) <br />
+* [Physics for Chemistry and Engineering(Accelerated Introductory II and III for Chemistry and Engineering Students](https://rtlines.github.io/ph223text.pdf) <br />
 <br />
+
 
 And here are two lab manuals, one for a first laboratory experience emphasizing experimental design teaching measurement, error analysis, and Euler's method. The second teaching instrument design using Arduino microcontroller boards.<br /><br />
 
