@@ -8,10 +8,11 @@ Over the last few years, I have kind of disappeared from the research community.
 
 We will see how this works. Comments, suggestions, or complaints can be sent to linest@byui.edu. 
 
-
+https://rtlines.github.io/Lecture_Notes_PH-220.pdf
+https://rtlines.github.io/Lecture_Notes_PH-220.pdf
 * [Introductory Physics I Mechanics](https://github.com/rtlines/Introductory-Physics-I/blob/6fce20b732198f7210a76e46427da636c26f75a3/Textbook/PH121Textbook0.31083.pdf) <br /> 
 * [Introductory Physics II Waves, Thermodynamics, and Optics](https://github.com/rtlines/Introductory-Physics-II/blob/100f36e3cd6208c3f7200d811186adfcac7c1b9c/Textbook/ph123_text_book.v0.52.pdf) <br /> 
-* [Introductory Physics III Electric and Magnetic field theory](https://github.com/rtlines/Introductory-Physics-III/blob/7b641e33acd73fe19fb58a73cc49589c941c013f/Textbook/lecture_notes_ph-220.pdf) <br />
+* [Introductory Physics III Electric and Magnetic field theory](https://rtlines.github.io/Lecture_Notes_PH-220.pdf) <br />
 * [Introductory Physics IV Modern Physics (Special Relativity and Begining Quantum Mechanics)](https://github.com/rtlines/IntroductoryPhysicsIV/blob/main/Textbook/lecture_notesph279.pdf) <br />
 <br />
 
@@ -44,7 +45,7 @@ And this is what you should get when you compile the LaTeX
 ## Current Research
 Conversion of the Variational Green's Function Method code for calculation of the electrical field for small particle scattering to python.
 <br /><br />Microwave Radiative Transfer
-
+[Lidar Notes](https://github.com/rtlines/Introductory-Physics-I/blob/6fce20b732198f7210a76e46427da636c26f75a3/Textbook/PH121Textbook0.31083.pdf) <br /> 
 
 ## Publications
 
