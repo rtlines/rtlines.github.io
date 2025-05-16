@@ -40,7 +40,6 @@ Here is the BYUI thesis template (the BYU template with modificatoins for BYUI)
 And this is what you should get when you compile the LaTeX
 [OrbitThesisFile](https://rtlines.github.io/ThesisOrbit.pdf).
 
-<br /><br />
 
 ## Current Research
 *Conversion of the Variational Green's Function Method code for calculation of the electrical field for small particle scattering to python. <br />
